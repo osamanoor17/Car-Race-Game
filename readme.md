@@ -15,9 +15,8 @@ A simple yet addictive 2D car racing game built with Python and Pygame. Dodge en
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots of the gameplay and menus here for better visualization)*
+## 🖼️ Demo
+👉 [Gameplay Video on YouTube](https://youtu.be/Q7CE2BrOEd4?si=QjxNxjzNDnvsJq47)
 
 ---
 
